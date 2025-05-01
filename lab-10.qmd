@@ -3,6 +3,7 @@ project:
   title: "Lab 10: Distances and the Border Zone"
   subtitle: 'Ecosystem Science and Sustainability 330'
   output-dir: docs
+  type: website
 
 format:
   html:
