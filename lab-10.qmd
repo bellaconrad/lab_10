@@ -257,8 +257,4 @@ ggplot() +
   )
 ```
 
-```{r}
-# 3.2 City Distance from the Border
-
-```
 
