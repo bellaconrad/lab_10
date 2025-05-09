@@ -324,7 +324,7 @@ scale_color_viridis_c("cividis", name = "Distance to State Border (km)") +
     aes(label = city, geometry = geometry), 
     stat = "sf_coordinates",
     min.segment.length = 0,
-    fill = "pink",
+    fill = "yellow",
     size = 3,
     box.padding = 0.3,
     point.padding = 0.2
